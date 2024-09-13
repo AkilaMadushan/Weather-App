@@ -36,18 +36,7 @@
            
       
    }
-  /* #mode-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    background-color: #ffffff;
-    color: #000000;
-    border: none;
-    padding: 10px;
-    border-radius: 50%;
-    cursor: pointer;
-    z-index: 9999;
-  } */
+  
   #current-time {
     position: fixed;
     top: 20px; 
